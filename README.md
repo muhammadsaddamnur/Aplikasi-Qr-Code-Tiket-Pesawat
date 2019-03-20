@@ -1,16 +1,6 @@
-# qrcode
+**Aplikasi Tiket Pesawat** 
+Animasi menggunkan Hero di Flutter 
 
-A new Flutter project.
+Sumber : https://www.youtube.com/watch?v=UrJu6jnx65g&index=65&list=PLFLwrvn-Im9zOixoCnwAoJGA6thxjV-0n&t=0s
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+![enter image description here](http://saddamnur.com/SaddamAssets/tiketpesawat.gif)
